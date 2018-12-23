@@ -51,6 +51,8 @@ android {
 }
 
 dependencies {
+    implementation 'com.github.TeamAmaze:FilePreloaderLibrary:v0.1.0'
+
     implementation 'com.simplemobiletools:commons:5.5.14'
 
     implementation files('../libs/RootTools.jar')
